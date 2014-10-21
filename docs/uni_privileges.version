@@ -1,0 +1,3 @@
+version1.0=base版本
+version2.0=加mysql sourcedata, fix redis事务连接等
+version3.0=后台增删改 mysql+redis
